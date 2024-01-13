@@ -1,6 +1,3 @@
 
-![Screenshot 2024-01-13 at 11 55 26 AM](https://github.com/laingk288/restaurant_rooftop/assets/135386431/30626122-3e86-403d-ac66-0abf2aecd4cf)
-
-![Screenshot 2024-01-13 at 11 56 42 AM](https://github.com/laingk288/restaurant_rooftop/assets/135386431/6a5e2667-9a31-4250-b60a-bca45943682c)
-
-![Screenshot 2024-01-13 at 11 57 00 AM](https://github.com/laingk288/restaurant_rooftop/assets/135386431/e22d527e-56e2-4d54-b12f-939f0f960d10)
+![Screenshot 2024-01-13 at 12 04 34 PM](https://github.com/laingk288/restaurant_rooftop/assets/135386431/4af74dc9-3926-4400-9468-ead91df7ba80)
+![Screenshot 2024-01-13 at 12 05 13 PM](https://github.com/laingk288/restaurant_rooftop/assets/135386431/8e1b890e-905d-4794-9774-4c2d13000fdc)
